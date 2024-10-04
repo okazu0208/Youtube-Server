@@ -1,2 +1,2 @@
 pytube==12.0.0
-Flask==2.2.3
+Flask==2.3.3
